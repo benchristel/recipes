@@ -16,7 +16,6 @@ eggplant-stirfry.html
 ethiopian-lentils.html
 firinda-sebzeli-nohutlu-turlu.html
 gallo-pinto.html
-index.html
 japanese-eggplant-curry.html
 lembas.html
 lentil-soup.html
