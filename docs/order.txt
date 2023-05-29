@@ -16,6 +16,7 @@ eggplant-stirfry.html
 ethiopian-lentils.html
 firinda-sebzeli-nohutlu-turlu.html
 gallo-pinto.html
+hummus.html
 japanese-eggplant-curry.html
 lembas.html
 lentil-soup.html
@@ -29,6 +30,7 @@ queue.html
 quinoa-black-bean-chili.html
 quinoa-mint-salad.html
 ribollita.html
+shopping-list.html
 soy-sauce-lentil-soup.html
 spinach-pide.html
 thai-red-curry.html
