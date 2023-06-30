@@ -14,6 +14,7 @@ dal.html
 eggplant-shake.html
 eggplant-stirfry.html
 ethiopian-lentils.html
+farro.html
 firinda-sebzeli-nohutlu-turlu.html
 gallo-pinto.html
 hummus.html
