@@ -10,6 +10,9 @@
 - Buttermilk
 - Bananas
 - Eggs
+- Butter
+- Sunflower Seeds
+- Pumpkin Seeds
 
 ## Lunch
 
@@ -20,6 +23,11 @@
 - Olive Oil
 - Tahini
 - Lemon
+- Sando Cheese
+- Lettuce
+- Pickles
+- Mayo
+- Mustard
 
 ## Staples
 
@@ -33,3 +41,8 @@
 - Soy Sauce
 - Mirin
 - Hot Sauce
+- Whole Wheat 4
+- Bread 4
+- Chocolate raisins
+- Bulgar
+- Sriracha
