@@ -17,13 +17,12 @@
 ## Lunch
 
 - Pita
-- Cheese
 - Cucumbers
 - Garbanzo Beans
 - Olive Oil
 - Tahini
 - Lemon
-- Sando Cheese
+- Cheese
 - Lettuce
 - Pickles
 - Mayo
