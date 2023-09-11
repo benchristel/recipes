@@ -4,6 +4,7 @@ README.html
 apple-pide.html
 beans.html
 brazilian-black-bean-soup.html
+brown-rice.html
 butternut-squash-soup.html
 cardamom-steamed-milk.html
 chana-masala.html
