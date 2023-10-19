@@ -13,4 +13,11 @@
   }
 </style>
 
-{{toc}}
+{{toc /favorites}}
+
+## Below the Fold
+
+I haven't made these recipes in a long time. They might be bad. Use with caution!
+
+{{toc /below-the-fold}}
+
