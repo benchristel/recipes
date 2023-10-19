@@ -1,3 +1,5 @@
+# Peanut Soup
+
 ## Ingredients
 
 - 3/4 cup roasted and shelled peanuts

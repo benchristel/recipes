@@ -1,4 +1,4 @@
-# Quinoa & Black Bean Chili
+# Black Bean Chili
 
 Adapted from http://allrecipes.com/recipe/quinoa-and-black-bean-chili/
 

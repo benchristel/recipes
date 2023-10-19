@@ -1,4 +1,4 @@
-# Mediterranean Lentils
+# Mediterranean Lentil Soup
 
 ## Ingredients
 

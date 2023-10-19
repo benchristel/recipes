@@ -1,4 +1,4 @@
-# Ben's Apple Pide
+# Apple Pide
 
 Serves 4. Dough recipe is adapted from [www.turkishcookbook.com](http://www.turkishcookbook.com/)
 

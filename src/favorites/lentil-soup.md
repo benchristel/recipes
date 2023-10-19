@@ -1,4 +1,4 @@
-# Lentil Soup
+# French Lentil Soup
 
 ## Ingredients
 
