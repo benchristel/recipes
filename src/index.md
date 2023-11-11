@@ -1,6 +1,6 @@
 # Ben's Recipes
 
-- [The one shopping list... TO RULE THEM ALL](shopping-list.md)
+[The one shopping list... TO RULE THEM ALL](shopping-list.md)
 
 ## Table of Contents
 
@@ -9,6 +9,10 @@
     ul {
       columns: 2;
       column-gap: 3em;
+    }
+
+    li {
+      break-inside: avoid-column;
     }
   }
 </style>
