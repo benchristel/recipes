@@ -36,6 +36,7 @@ Soak the kidney beans.
 ### Thread 1: Stew
 
 - Bring the beans to a boil and simmer, covered, about 90 minutes. Add a teaspoon of salt when the beans start to get tender. When they are fully cooked, drain off any excess liquid, until the water just covers the beans.
+- Puncture the dried limes a few times with a sturdy fork, and add them to the beans. Continue to simmer.
 
 ### Thread 2: Herbs
 
@@ -50,9 +51,8 @@ Soak the kidney beans.
 
 ### Thread#join
 
-- Once the beans are fully cooked, puncture the dried limes a few times with a sturdy fork, and add them to the stew.
 - Add the cooked herbs and a tablespoon of dried fenugreek to the stew.
-- Add the chopped spinach (if using). You can saute it a bit first to deglaze the pan.
+- Add the chopped spinach (if using). You can stir-fry it a bit first to deglaze the pan.
 - Check the consistency of the stew. It should not be runny. If it is too watery, let it simmer uncovered.
 - Simmer at least half an hour.
 
