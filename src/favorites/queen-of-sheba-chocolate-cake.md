@@ -79,3 +79,5 @@ Blanch and skin a **heaping 1/2 cup of almonds**:
 1. Melt **6 Tbsp butter**, **1/2 cup semi-sweet chocolate chips**, and **1 Tbsp liqueur** over low heat, stirring.
 2. As soon as the chocolate and butter are melted, pour over cooled cake starting at the center and working toward the edges.
 3. Use a spatula or knife to redirect the glaze up the sides before it puddles on the plate. A turntable or another pair of hands is helpful!
+
+See also: [Butter Icing](butter-icing.html).
