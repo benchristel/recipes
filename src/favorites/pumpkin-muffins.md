@@ -32,7 +32,7 @@ The amounts here are forgiving: you can use 3 eggs instead of 4, or reduce the o
 
 ## Procedure
 
-1. Preheat the oven to 350°F.
+1. Preheat the oven to 375°F.
 2. Whisk the wet ingredients together.
 3. Sift the dry ingredients into the wet.
 4. Stir just until the dry ingredients are incorporated. Don't overmix, or you'll have tough muffins.
